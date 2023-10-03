@@ -10,7 +10,7 @@ preload-iframes: true
 
 ## {background-iframe="src/index.html"}
 
-![](https://raw.githubusercontent.com/BIOSCI738/cowstats/main/img/dr_cow.png)
+<img src="https://raw.githubusercontent.com/BIOSCI738/cowstats/main/img/coxhex.png" alt="BIOSCI738 hex" width="200" height="200">
 
 ## {background-image="https://raw.githubusercontent.com/BIOSCI738/cowstats/main/img/statistical_inference.png" background-size="contain"}
 
@@ -19,3 +19,5 @@ preload-iframes: true
 ## {background-image="https://raw.githubusercontent.com/BIOSCI738/cowstats/main/img/bootstrapping.png" background-size="contain"}
 
 ## {background-image="https://raw.githubusercontent.com/BIOSCI738/cowstats/main/img/distributions.png" background-size="contain"}
+
+## {background-image="https://raw.githubusercontent.com/BIOSCI738/cowstats/main/img/mle_p.png" background-size="contain"}

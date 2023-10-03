@@ -23,6 +23,11 @@
             height: 320
           },
           {
+            src: "../img/dr_cow.png",
+            width: 320,
+            height: 320
+          },
+          {
             src: "../img/code_bell.png",
             width: 320,
             height: 320
