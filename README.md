@@ -8,4 +8,6 @@
    + [Randomisation](https://raw.githubusercontent.com/BIOSCI738/cowstats/main/img/randomisation.png)
    + [Bootstrapping](https://raw.githubusercontent.com/BIOSCI738/cowstats/main/img/bootstrapping.png)
    + [Statistical distributions](https://raw.githubusercontent.com/BIOSCI738/cowstats/main/img/distributions.png)
-   + [Binomial maximum likelihood](https://raw.githubusercontent.com/BIOSCI738/cowstats/main/img/mle_p.png)
+   + [Binomial MLE](https://raw.githubusercontent.com/BIOSCI738/cowstats/main/img/mle_p.png)
+   + [Gaussian MLE](https://raw.githubusercontent.com/BIOSCI738/cowstats/main/img/mle_mu_sigma.png)
+

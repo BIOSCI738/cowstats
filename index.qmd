@@ -21,3 +21,6 @@ preload-iframes: true
 ## {background-image="https://raw.githubusercontent.com/BIOSCI738/cowstats/main/img/distributions.png" background-size="contain"}
 
 ## {background-image="https://raw.githubusercontent.com/BIOSCI738/cowstats/main/img/mle_p.png" background-size="contain"}
+
+## {background-image="https://raw.githubusercontent.com/BIOSCI738/cowstats/main/img/mle_mu_sigma.png" background-size="contain"}
+
